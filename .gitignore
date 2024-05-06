@@ -51,4 +51,4 @@ Thumbs.db
 # Python virtual environment
 venv
 
-
+.pytest_cache
